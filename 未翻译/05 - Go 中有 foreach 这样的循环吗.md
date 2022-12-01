@@ -1,0 +1,1 @@
+<https://stackoverflow.com/questions/7782411/is-there-a-foreach-loop-in-go>

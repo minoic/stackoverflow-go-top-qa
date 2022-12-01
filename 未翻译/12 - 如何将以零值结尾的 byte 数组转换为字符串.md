@@ -1,0 +1,1 @@
+<https://stackoverflow.com/questions/14230145/how-can-i-convert-a-zero-terminated-byte-array-to-string>

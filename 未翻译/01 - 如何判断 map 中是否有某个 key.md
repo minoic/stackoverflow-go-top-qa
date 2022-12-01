@@ -1,0 +1,1 @@
+<https://stackoverflow.com/questions/2050391/how-to-check-if-a-map-contains-a-key-in-go>

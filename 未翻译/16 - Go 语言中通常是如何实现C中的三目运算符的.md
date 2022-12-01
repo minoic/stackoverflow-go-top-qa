@@ -1,0 +1,1 @@
+<https://stackoverflow.com/questions/19979178/what-is-the-idiomatic-go-equivalent-of-cs-ternary-operator>

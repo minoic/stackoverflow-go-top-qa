@@ -1,0 +1,1 @@
+<https://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot>
