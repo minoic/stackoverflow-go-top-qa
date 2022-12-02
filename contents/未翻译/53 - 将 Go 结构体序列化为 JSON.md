@@ -1,0 +1,1 @@
+<https://stackoverflow.com/questions/8270816/converting-go-struct-to-json>

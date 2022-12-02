@@ -1,0 +1,1 @@
+<https://stackoverflow.com/questions/17306358/removing-fields-from-struct-or-hiding-them-in-json-response>
