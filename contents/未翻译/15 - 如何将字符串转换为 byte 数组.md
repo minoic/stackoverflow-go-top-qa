@@ -1,1 +1,0 @@
-<https://stackoverflow.com/questions/8032170/how-to-assign-string-to-bytes-array>
