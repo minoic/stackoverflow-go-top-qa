@@ -1,1 +1,0 @@
-<https://stackoverflow.com/questions/15323767/does-go-have-if-x-in-construct-similar-to-python>

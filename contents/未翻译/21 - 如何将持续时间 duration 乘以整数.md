@@ -1,1 +1,0 @@
-<https://stackoverflow.com/questions/17573190/how-to-multiply-duration-by-integer>
