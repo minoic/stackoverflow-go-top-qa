@@ -1,1 +1,0 @@
-<https://stackoverflow.com/questions/13792254/removing-packages-installed-with-go-get>
