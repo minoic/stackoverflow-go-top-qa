@@ -1,1 +1,0 @@
-<https://stackoverflow.com/questions/32232655/go-get-results-in-terminal-prompts-disabled-error-for-github-private-repo>
