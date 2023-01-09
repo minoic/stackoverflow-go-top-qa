@@ -39,10 +39,10 @@ stackoverflow 上 Go 相关高赞问题的中文翻译
   - [32 - 如何提取 map 中的所有 key.md](contents/已翻译/32%20-%20如何提取%20map%20中的所有%20key.md)
   - [33 - 删除 go get 获取到的包.md](contents/已翻译/33%20-%20删除%20go%20get%20获取到的包.md)
   - [34 - 初始化一个空切片的正确方式.md](contents/已翻译/34%20-%20初始化一个空切片的正确方式.md)
+  - [35 - Go 语言中如何发送带有 JSON 数据的 POST 请求.md](contents/已翻译/35%20-%20Go%20语言中如何发送带有%20JSON%20数据的%20POST%20请求.md)
+  - [36 - go get 获取 github 私有项目时遇到 terminal prompts disabled 错误.md](contents/已翻译/36%20-%20go%20get%20获取%20github%20私有项目时遇到%20terminal%20prompts%20disabled%20错误.md)
 - 未翻译
   - [20 - 指针和值在函数参数和返回值上的对比.md](contents/未翻译/20%20-%20指针和值在函数参数和返回值上的对比.md)
-  - [35 - Go 语言中如何发送带有 JSON 数据的 POST 请求.md](contents/未翻译/35%20-%20Go%20语言中如何发送带有%20JSON%20数据的%20POST%20请求.md)
-  - [36 - go get 获取 github 私有项目时遇到 terminal prompts disabled 错误.md](contents/未翻译/36%20-%20go%20get%20获取%20github%20私有项目时遇到%20terminal%20prompts%20disabled%20错误.md)
   - [37 - 如何从标准输入读取终端发送的数据.md](contents/未翻译/37%20-%20如何从标准输入读取终端发送的数据.md)
   - [38 - X 并未实现 Y（... 方法有一个指针接收器）.md](contents/未翻译/38%20-%20X%20并未实现%20Y（...%20方法有一个指针接收器）.md)
   - [39 - 如何在 Ubuntu 系统中设置 GOPATH 环境变量.md](contents/未翻译/39%20-%20如何在%20Ubuntu%20系统中设置%20GOPATH%20环境变量.md)
